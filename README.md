@@ -244,4 +244,4 @@ This repository serves as the official landing page for Game Maker. The software
 **Get the most recent version of Game Maker today!**
 
 ---
-**Last updated:** 2026-09-19 16:18:57 UTC
+**Last updated:** 2026-09-19 19:12:36 UTC
